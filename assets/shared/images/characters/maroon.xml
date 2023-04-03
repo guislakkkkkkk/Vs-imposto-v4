@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="maroon.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="Maroon Down0000" x="5" y="5" width="601" height="438" frameX="0" frameY="0" frameWidth="601" frameHeight="443"/>
+	<SubTexture name="Maroon Down0001" x="611" y="5" width="597" height="437" frameX="0" frameY="-6" frameWidth="601" frameHeight="443"/>
+	<SubTexture name="Maroon Idle0000" x="1213" y="5" width="707" height="441" frameX="0" frameY="0" frameWidth="743" frameHeight="468"/>
+	<SubTexture name="Maroon Idle0001" x="5" y="451" width="706" height="446" frameX="-6" frameY="-2" frameWidth="743" frameHeight="468"/>
+	<SubTexture name="Maroon Idle0002" x="716" y="451" width="713" height="447" frameX="-17" frameY="-9" frameWidth="743" frameHeight="468"/>
+	<SubTexture name="Maroon Idle0003" x="5" y="903" width="715" height="444" frameX="-28" frameY="-24" frameWidth="743" frameHeight="468"/>
+	<SubTexture name="Maroon Idle0004" x="5" y="451" width="706" height="446" frameX="-6" frameY="-2" frameWidth="743" frameHeight="468"/>
+	<SubTexture name="Maroon Idle0005" x="1213" y="5" width="707" height="441" frameX="0" frameY="0" frameWidth="743" frameHeight="468"/>
+	<SubTexture name="Maroon Idle0006" x="1213" y="5" width="707" height="441" frameX="0" frameY="0" frameWidth="743" frameHeight="468"/>
+	<SubTexture name="Maroon Backwards0000" x="725" y="903" width="802" height="413" frameX="0" frameY="0" frameWidth="810" frameHeight="418"/>
+	<SubTexture name="Maroon Backwards0001" x="5" y="1352" width="800" height="418" frameX="-10" frameY="0" frameWidth="810" frameHeight="418"/>
+	<SubTexture name="Maroon Forward0000" x="810" y="1352" width="817" height="464" frameX="-11" frameY="0" frameWidth="828" frameHeight="464"/>
+	<SubTexture name="Maroon Forward0001" x="5" y="1821" width="823" height="459" frameX="0" frameY="0" frameWidth="828" frameHeight="464"/>
+	<SubTexture name="Maroon Up0000" x="833" y="1821" width="795" height="476" frameX="-1" frameY="0" frameWidth="801" frameHeight="476"/>
+	<SubTexture name="Maroon Up0001" x="5" y="2302" width="801" height="469" frameX="0" frameY="-2" frameWidth="801" frameHeight="476"/>
+</TextureAtlas>

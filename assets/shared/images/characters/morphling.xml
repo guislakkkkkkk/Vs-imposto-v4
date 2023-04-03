@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="morphling.png">
+<SubTexture name="Monotone Backwards0000" x="1807" y="0" width="712" height="501" frameX="-9" frameY="0" frameWidth="729" frameHeight="501" />
+<SubTexture name="Monotone Backwards0001" x="0" y="1557" width="729" height="481" frameX="0" frameY="-1" frameWidth="729" frameHeight="501" />
+<SubTexture name="Monotone Down0000" x="0" y="2038" width="778" height="465" frameX="-5" frameY="-1" frameWidth="784" frameHeight="473" />
+<SubTexture name="Monotone Down0001" x="778" y="2038" width="784" height="465" frameX="0" frameY="-8" frameWidth="784" frameHeight="473" />
+<SubTexture name="Monotone Forward0000" x="729" y="1557" width="663" height="480" frameX="-1" frameY="0" frameWidth="664" frameHeight="480" />
+<SubTexture name="Monotone Forward0001" x="1392" y="1557" width="660" height="480" frameX="0" frameY="0" frameWidth="664" frameHeight="480" />
+<SubTexture name="Monotone Idle0000" x="0" y="1050" width="654" height="507" frameX="-1" frameY="-3" frameWidth="670" frameHeight="529" />
+<SubTexture name="Monotone Idle0001" x="654" y="1050" width="660" height="505" frameX="0" frameY="-5" frameWidth="670" frameHeight="529" />
+<SubTexture name="Monotone Idle0002" x="1807" y="501" width="665" height="494" frameX="-1" frameY="-32" frameWidth="670" frameHeight="529" />
+<SubTexture name="Monotone Idle0003" x="1807" y="995" width="662" height="482" frameX="-8" frameY="-47" frameWidth="670" frameHeight="529" />
+<SubTexture name="Monotone Idle0004" x="1157" y="0" width="650" height="509" frameX="-12" frameY="-16" frameWidth="670" frameHeight="529" />
+<SubTexture name="Monotone Idle0005" x="0" y="540" width="652" height="510" frameX="-4" frameY="0" frameWidth="670" frameHeight="529" />
+<SubTexture name="Monotone Idle0006" x="0" y="1050" width="654" height="507" frameX="-1" frameY="-3" frameWidth="670" frameHeight="529" />
+<SubTexture name="Monotone Up0000" x="569" y="0" width="588" height="526" frameX="0" frameY="0" frameWidth="588" frameHeight="548" />
+<SubTexture name="Monotone Up0001" x="0" y="0" width="569" height="540" frameX="-10" frameY="-8" frameWidth="588" frameHeight="548" />
+</TextureAtlas>
