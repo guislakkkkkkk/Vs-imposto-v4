@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"lemon-lime",
+			"jade",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"chlorophyll",
+			"jade",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"inflorescence",
+			"jade",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"stargazer",
+			"jade",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "cocainaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+	"weekName": "toma no cu",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

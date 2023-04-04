@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["sussus-threegus", "amarelo", [146, 113, 253]],
+		["oversight", "amarin", [146, 113, 253]],
+		["danger", "blaquizin", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Daddy Dearest",
+	"weekBefore": "tutorial",
+	"difficulties": "Hard",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

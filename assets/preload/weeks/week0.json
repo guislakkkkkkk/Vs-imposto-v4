@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"sussus-moogus",
+			"redi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"actin-sus",
+			"redi",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "anongi",
+	"weekName": "nao sei",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
