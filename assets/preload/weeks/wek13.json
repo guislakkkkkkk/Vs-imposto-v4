@@ -4,49 +4,50 @@
 			"lemon-lime",
 			"jade",
 			[
-				60,
-				255,
-				80
+				146,
+				113,
+				253
 			]
 		],
 		[
 			"chlorophyll",
 			"jade",
 			[
-				60,
-				255,
-				80
+				146,
+				113,
+				253
 			]
 		],
 		[
 			"inflorescence",
 			"jade",
 			[
-				60,
-				255,
-				80
+				146,
+				113,
+				253
 			]
 		],
 		[
 			"stargazer",
 			"jade",
 			[
-				60,
-				255,
-				80
+				146,
+				113,
+				253
 			]
 		]
 	],
+	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
 	"weekBackground": "",
-	"difficulties": "Hard",
+	"difficulties": "hard",
 	"weekCharacters": [
 		"",
-		"bf",
-		"gf"
+		"",
+		""
 	],
-	"storyName": "lime green jadeimposter",
-	"weekName": "",
+	"storyName": "cocainaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+	"weekName": "toma no cu",
 	"freeplayColor": [
 		146,
 		113,

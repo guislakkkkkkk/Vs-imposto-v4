@@ -1,49 +1,23 @@
 {
 	"songs": [
-		[
-			"sussus-twogus",
-			"verdi",
-			[
-				186,
-				255,
-				0
-			]
-		],
-		[
-			"lights-out",
-			"verdi",
-			[
-				186,
-				255,
-				0
-			]
-		],
-		[
-			"impostor-trouble",
-			"impostos",
-			[
-				186,
-				255,
-				0
-			]
-		]
+		["sussus-twogus", "verdi", [146, 113, 253]],
+		["lights-out", "verdi", [146, 113, 253]],
+		["impostor-trouble", "impostos", [146, 113, 253]]
 	],
-	"hideFreeplay": false,
-	"weekBackground": "",
-	"difficulties": "Hard",
+
 	"weekCharacters": [
-		"",
+		"dad",
 		"bf",
 		"gf"
 	],
-	"storyName": "task",
-	"weekName": "suspiculos",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": false,
+	"weekBackground": "stage",
+
+	"storyName": "Daddy Dearest",
 	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"difficulties": "Hard",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
 }
