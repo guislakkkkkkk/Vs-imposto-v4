@@ -1,23 +1,49 @@
 {
 	"songs": [
-		["sussus-twogus", "verdi", [146, 113, 253]],
-		["lights-out", "verdi", [146, 113, 253]],
-		["impostor-trouble", "impostos", [146, 113, 253]]
+		[
+			"sussus-twogus",
+			"verdi",
+			[
+				186,
+				255,
+				0
+			]
+		],
+		[
+			"lights-out",
+			"verdi",
+			[
+				186,
+				255,
+				0
+			]
+		],
+		[
+			"impostor-trouble",
+			"impostos",
+			[
+				186,
+				255,
+				0
+			]
+		]
 	],
-
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
 	"weekCharacters": [
 		"",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "",
-
 	"storyName": "task",
-	"weekBefore": "tutorial",
-	"difficulties": "Hard",
-	"weekName": "wek",
-	"startUnlocked": true,
-
+	"weekName": "suspiculos",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }

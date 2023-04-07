@@ -1,12 +1,21 @@
 {
 	"songs": [
 		[
-			"defeated",
-			"blaquizin",
+			"sussus-moogus",
+			"redi",
 			[
-				60,
-				60,
-				60
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"actin-sus",
+			"redi",
+			[
+				255,
+				0,
+				0
 			]
 		]
 	],
@@ -18,7 +27,7 @@
 		"bf",
 		"gf"
 	],
-	"storyName": "defeated",
+	"storyName": "suspiculous",
 	"weekName": "",
 	"freeplayColor": [
 		146,

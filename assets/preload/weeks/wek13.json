@@ -4,40 +4,39 @@
 			"lemon-lime",
 			"jade",
 			[
-				146,
-				113,
-				253
+				60,
+				255,
+				80
 			]
 		],
 		[
 			"chlorophyll",
 			"jade",
 			[
-				146,
-				113,
-				253
+				60,
+				255,
+				80
 			]
 		],
 		[
 			"inflorescence",
 			"jade",
 			[
-				146,
-				113,
-				253
+				60,
+				255,
+				80
 			]
 		],
 		[
 			"stargazer",
 			"jade",
 			[
-				146,
-				113,
-				253
+				60,
+				255,
+				80
 			]
 		]
 	],
-	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
 	"weekBackground": "",
 	"difficulties": "Hard",
@@ -46,8 +45,8 @@
 		"bf",
 		"gf"
 	],
-	"storyName": "lime green jadsimposter",
-	"weekName": "weklimeimposter",
+	"storyName": "lime green jadeimposter",
+	"weekName": "",
 	"freeplayColor": [
 		146,
 		113,

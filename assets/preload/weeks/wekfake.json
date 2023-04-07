@@ -1,21 +1,31 @@
 {
 	"songs": [
-		["", "blaquizin", [165, 0, 77]]
+		[
+			"",
+			"",
+			[
+				0,
+				0,
+				0
+			]
+		]
 	],
-
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"difficulties": "marcelogay",
 	"weekCharacters": [
 		"",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "",
-
 	"storyName": "",
-	"weekBefore": "tutorial",
-	"difficulties": "Hard",
-	"weekName": "Tutorial",
-	"startUnlocked": true,
-
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": true
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }

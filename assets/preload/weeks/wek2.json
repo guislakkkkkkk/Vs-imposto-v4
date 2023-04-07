@@ -1,23 +1,49 @@
 {
 	"songs": [
-		["sussus-threegus", "amarelo", [146, 113, 253]],
-		["oversight", "amarin", [146, 113, 253]],
-		["danger", "blaquizin", [146, 113, 253]]
+		[
+			"sussus-threegus",
+			"amarelo",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"oversight",
+			"amarin",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"danger",
+			"blaquizin",
+			[
+				60,
+				60,
+				60
+			]
+		]
 	],
-
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
 	"weekCharacters": [
 		"",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "",
-
 	"storyName": "airship",
-	"weekBefore": "tutorial",
-	"difficulties": "Hard",
-	"weekName": "wek",
-	"startUnlocked": true,
-
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }
