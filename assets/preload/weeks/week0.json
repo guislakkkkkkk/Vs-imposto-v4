@@ -21,14 +21,14 @@
 	],
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
-	"weekBackground": "stage",
+	"weekBackground": "",
 	"difficulties": "Hard",
 	"weekCharacters": [
-		"dad",
+		"",
 		"bf",
 		"gf"
 	],
-	"storyName": "anongi",
+	"storyName": "suspiculois",
 	"weekName": "nao sei",
 	"freeplayColor": [
 		146,

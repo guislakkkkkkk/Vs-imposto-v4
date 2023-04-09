@@ -6,13 +6,13 @@
 	],
 
 	"weekCharacters": [
-		"dad",
+		"",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
+	"weekBackground": "",
 
-	"storyName": "Daddy Dearest",
+	"storyName": "task",
 	"weekBefore": "tutorial",
 	"difficulties": "Hard",
 	"weekName": "Week 1",

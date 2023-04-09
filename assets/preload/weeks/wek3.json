@@ -8,9 +8,9 @@
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
+	"weekBackground": "",
 
-	"storyName": "",
+	"storyName": "defeated",
 	"weekBefore": "tutorial",
 	"difficulties": "Hard",
 	"weekName": "Tutorial",
